@@ -12,7 +12,7 @@
 
 ## 🚀 Overview
 
-**SynthMind ** is not just a code generator; it is an **Agentic Workflow System** designed to solve the "Black Box" problem in AI development.
+**SynthMind** is not just a code generator; it is an **Agentic Workflow System** designed to solve the "Black Box" problem in AI development.
 
 Standard AI tools (like ChatGPT) often generate buggy code because they try to solve complex problems in a single shot. SynthMind solves this by breaking the creation process into three distinct, self-correcting roles: **Designer**, **Coder**, and **Critic**.
 
